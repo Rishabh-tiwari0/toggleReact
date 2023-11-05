@@ -1,0 +1,25 @@
+.headinglight {
+  background-color: aqua;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  padding: 20px;
+}
+.headingDark {
+  background-color: rgb(37, 55, 59);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  padding: 20px;
+  color: antiquewhite;
+}
+button {
+  background-color: rgb(102, 124, 102);
+  border: 0px;
+  border-radius: 10px;
+  padding: 10px 20px;
+  color: white;
+  margin-left: 20px;
+}
+button:hover {
+  background-color: greenyellow;
+  color: black;
+}
